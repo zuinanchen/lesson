@@ -25,7 +25,8 @@ print(type(f))
 h = {10, 20, 30}
 print(type(h))
 
-age = 18
+q = 77
+age = 16
 name = 'Tom'
 weight = 75.5
 student_id = 1
