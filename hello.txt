@@ -2,4 +2,6 @@ hello git! hello world!
 ccccccc
 hello git! hello world! hot-fix test
 hot-fix
-giegie,你是最帅的。
+giegie,你是最帅的。666
+----------------------------------
+日子在慢慢向前，事情会慢慢变好，愿你的忙，不慌不茫。
